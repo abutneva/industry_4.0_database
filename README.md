@@ -1,4 +1,4 @@
-**Repository name**: industry_4.0_database
+**Repository name**: *industry_4.0_database*
 
 **Content:** *Descriptions of five sequential databases devoted to the management of Industry 4.0*
 
