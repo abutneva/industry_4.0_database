@@ -7,4 +7,4 @@
 
 
 [ENGLISH VERSION]
-**The database is created and managed by the authors of the work "An e-collection comprising eight databases in the digital economy management area": A.Y. Butneva (Bocconi University; Politecnico di Milano), E.Sh. Shaimieva (Kazan Innovative University), G.I. Gumerova (Financial University under the Government of the Russian Federation)**
+**The database is created and managed by the authors of the composite work "An e-collection comprising eight databases in the digital economy management area": A.Y. Butneva (Bocconi University; Politecnico di Milano), E.Sh. Shaimieva (Kazan Innovative University), G.I. Gumerova (Financial University under the Government of the Russian Federation)**
