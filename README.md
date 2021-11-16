@@ -7,4 +7,4 @@
 
 
 [ENGLISH VERSION]
-**The database is created and managed by the authors of the work "An e-manual comprising eight databases in the digital economy management area": A.Y. Butneva, E.Sh. Shaimieva, G.I. Gumerova**
+**The database is created and managed by the authors of the work "An e-collection comprising eight databases in the digital economy management area": A.Y. Butneva, E.Sh. Shaimieva, G.I. Gumerova**
